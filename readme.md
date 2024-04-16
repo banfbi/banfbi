@@ -41,7 +41,7 @@
  <a href="https://banfbi.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="banfbi" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/banfbi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="banfbi"/>
  </a>
  <!-- <a href="https://dev.to/banfbi" target="_blank">
@@ -105,7 +105,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=banfbi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/banfbi)
+[![banfbi Readme](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=banfbi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/banfbi)
 
 <p align="left">
   <a href="https://github.com/banfbi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
