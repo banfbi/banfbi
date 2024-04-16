@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime]([https://wakatime.com/badge/user/banfbi](https://wakatime.com/@banfbi))
+[![wakatime]([https://wakatime.com/badge/user/banfbi](https://wakatime.com/@banfbi))]
 
 <!-- Intro  -->
 <h3 align="center">
