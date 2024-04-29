@@ -104,7 +104,7 @@
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/urfolio)
-[![Juego Tragaperras (Slots Machines)]([https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF](https://github.com/banfbi/Juego_Tragaperras))](https://github.com/banfbi/Juego_Tragaperras)
+[![Juego Tragaperras (Slots Machines)](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=banfbi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/juego_tragaperras)
 [![banfbi Readme](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=banfbi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/banfbi)
 
 <p align="left">
