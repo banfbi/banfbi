@@ -105,7 +105,7 @@
 [![Juego Ahorcado](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego_Ahorcado&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego_Ahorcado)
 [![Juego Cartas Buscar Parejas](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego_Cartas_Parejas&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego_Cartas_Parejas)
 [![Juego Tragaperras (Slots Machines)](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=Juego_Tragaperras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/Juego_Tragaperras)
-[![banfbi Readme](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=banfbi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/banfbi)
+[![API NASA](https://github-readme-stats.vercel.app/api/pin/?username=banfbi&repo=API-NASA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/banfbi/API-NASA)
 
 <p align="left">
   <a href="https://github.com/banfbi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
