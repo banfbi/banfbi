@@ -17,7 +17,8 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018ee7ff-071d-4f8d-8021-77d2f55ccfc8/project/87684f10-5286-439e-8da2-f3912bb95d05.svg)](https://wakatime.com/badge/user/018ee7ff-071d-4f8d-8021-77d2f55ccfc8/project/87684f10-5286-439e-8da2-f3912bb95d05)
+[![wakatime](https://wakatime.com/badge/user/018ee7ff-071d-4f8d-8021-77d2f55ccfc8/project/018f0628-19d6-41a5-b84a-f397e85aaec4.svg)](https://wakatime.com/badge/user/018ee7ff-071d-4f8d-8021-77d2f55ccfc8/project/018f0628-19d6-41a5-b84a-f397e85aaec4)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
